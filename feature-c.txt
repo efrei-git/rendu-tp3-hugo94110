@@ -1,1 +1,2 @@
 feature-c -> commit 1
+feature-c -> commit 2
